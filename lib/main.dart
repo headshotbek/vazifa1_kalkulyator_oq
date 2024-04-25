@@ -33,9 +33,9 @@ class MyApp extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.end,
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Text("345 + (35 x 3)",style: TextStyle(fontSize: 20),),
-                  Text("=",style: TextStyle(fontSize: 20),),
-                  Text("450",style: TextStyle(fontSize: 30,fontWeight: FontWeight.w700),)
+                  Text("345 + (35 x 3) ",style: TextStyle(fontSize: 20),),
+                  Text("= ",style: TextStyle(fontSize: 20),),
+                  Text("450 ",style: TextStyle(fontSize: 30,fontWeight: FontWeight.w700),)
                 ],
               ),
             ),
